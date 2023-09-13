@@ -2,3 +2,5 @@
 
 Intro to HTML course (13.039.23)
 (part of Web Design and Programming class)
+
+special thanks to the grand master (im not going to name him)
