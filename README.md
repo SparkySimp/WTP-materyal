@@ -1,6 +1,7 @@
-# wtp-2023-09-13-intro-to-html
+# Web Design and Programming Course working material
+this repository contains artifacts about 11th grade Web Design and Programming courses
 
-Intro to HTML course (13.09.23)
-(part of Web Design and Programming class)
-
-special thanks to the grand master (im not going to name him)
+each individual course includes a makefile and can be run with
+```make
+make run
+```
