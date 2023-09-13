@@ -1,6 +1,6 @@
 # wtp-2023-09-13-intro-to-html
 
-Intro to HTML course (13.039.23)
+Intro to HTML course (13.09.23)
 (part of Web Design and Programming class)
 
 special thanks to the grand master (im not going to name him)
